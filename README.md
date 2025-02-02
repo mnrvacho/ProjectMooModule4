@@ -15,7 +15,6 @@
 
 ## 실습 순서
 
-0. [(참고) Azure AI Search 전체 텍스트 검색 (Python)]() 
 1. [Azure AI Search로 텍스트 및 이미지 벡터 검색 (Azure Portal)]() 
 2. [Azure AI Search Rest API로 벡터 검색 (Python)]() 
 3. [Azure AI Content Understanding과 Azure AI Search 연결 (Python)]() 
