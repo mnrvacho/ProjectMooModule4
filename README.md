@@ -1,5 +1,5 @@
 # [Project Moo] Module 4
-<br/>
+
 ## Hands-on Lab 개요
 
 본 실습 과정은 한국 마이크로소프트와 파트너의 기술 협력 프로그램 중 하나인 "Project Moo"의 두 번째 실습 과정입니다. **Azure OpenAI와 Azure AI Search를 활용한 RAG’**에 대해 알아 보고 해당 기능들을 구현해 봅니다. 
