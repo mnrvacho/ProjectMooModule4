@@ -15,9 +15,10 @@
 
 ## 실습 순서
 
-1. [Azure AI Search로 텍스트 및 이미지 벡터 검색 (Azure Portal)]() 
-2. [Azure AI Search Rest API로 벡터 검색 (Python)]() 
-3. [Azure AI Content Understanding과 Azure AI Search 연결 (Python)]() 
+1. [Azure AI Search로 Azure OpenAI 텍스트 및 이미지 벡터 검색 (Azure Portal)](https://github.com/mnrvacho/ProjectMooModule4/blob/main/1.%20Azure%20OpenAI%20-%20Text%20and%20image%20Vector%20Search%20(Azure%20Portal).md)
+2. [Azure AI Search Rest API로 벡터 검색 (Python)](https://github.com/mnrvacho/ProjectMooModule4/blob/main/2.%20Vector%20Search%20-%20Rest%20API.md) 
+3. [Azure AI Content Understanding과 Azure AI Search 연결 (Python)](https://github.com/mnrvacho/ProjectMooModule4/blob/main/3.%20Azure%20Content%20Understanding%20-%20Rest%20API.md) 
+
 <br/>  
 
 
