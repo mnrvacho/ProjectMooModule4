@@ -20,7 +20,8 @@
 * [Azure AI Search로 문서 벡터 검색 (Azure Portal)](https://github.com/mnrvacho/ProjectMooModule4/blob/main/1-1.%20Vector%20Search%20(Document)%20-%20Azure%20Portal.md)
 * [Azure AI Search로 이미지 벡터 검색 (Azure Portal)](https://github.com/mnrvacho/ProjectMooModule4/blob/main/1-2.%20Vector%20Search%20(Image)%20-%20Azure%20Portal%20.md)
 * [Azure AI Search Rest API로 벡터 검색 (Python)](https://github.com/mnrvacho/ProjectMooModule4/blob/main/2.%20Vector%20Search%20-%20Rest%20API.md)
-* [Azure AI Content Understanding과 Azure AI Search 연결 (Python)](https://github.com/mnrvacho/ProjectMooModule4/blob/main/3.%20Azure%20Content%20Understanding%20-%20Rest%20API.md) 
+* [Azure AI Content Understanding 분석기 빌드 (Azure AI Foundry)](https://github.com/mnrvacho/ProjectMooModule4/blob/main/3.%20Azure%20Content%20Understanding%20-%20Azure%20AI%20Foundry.md)
+* [Azure AI Content Understanding과 Azure AI Search 연결 (Python)](https://github.com/mnrvacho/ProjectMooModule4/blob/main/4.%20Azure%20Content%20Understanding%20-%20Rest%20API.md) 
 
 <br/>  
 
