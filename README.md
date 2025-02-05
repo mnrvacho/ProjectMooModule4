@@ -7,10 +7,12 @@
 
 ## 사용 Azure 리소스 및 환경
 
-* Azure OpenAI
 * Azure AI Search 
-* Azure AI Service
+* Azure OpenAI 
+* Azure AI Foundry  
+* Azure AI Service 
 * Azure Blob Storage
+  
 <br/>
 
 ## 실습 진행 
