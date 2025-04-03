@@ -32,3 +32,7 @@
 * [Vector samples - Azure AI Search](https://github.com/Azure/azure-search-vector-samples)
 * [Azure AI Search with Content Understanding Samples (Python)](https://github.com/Azure-Samples/azure-ai-search-with-content-understanding-python)
 <br/>  
+
+
+https://azuredocsrepo.blob.core.windows.net/lab-files/Moo-PDF.zip 
+https://azuredocsrepo.blob.core.windows.net/lab-files/Moo-IMAGE.zip 
